@@ -1,7 +1,7 @@
 body{
     background-color: aqua;
 }
-
-.link{
-    font-size: 15px;
+#link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
